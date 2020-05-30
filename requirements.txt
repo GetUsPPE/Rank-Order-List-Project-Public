@@ -1,0 +1,5 @@
+fuzzywuzzy
+python-Levenshtein
+jupyter notebook
+numpy
+pandas
